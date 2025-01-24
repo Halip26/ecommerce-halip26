@@ -102,5 +102,8 @@
     "entrypoints": [
       "pages"
     ]
+  },
+  "engines": {
+    "node": "22.11.0"
   }
 }
