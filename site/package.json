@@ -102,5 +102,8 @@
     "entrypoints": [
       "pages"
     ]
+  },
+  "engines": {
+    "node": ">=18"
   }
 }
